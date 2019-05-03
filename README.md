@@ -36,7 +36,7 @@ Edit this document to include your answers after each question. Make sure to lea
     ANSWER: Adaptive site have distinct layouts for different screen sizes, so each layout has to be specifically designed for that size. Responsive websites are constantly adapting to the size of the screen no matter what. 
 
 2. Describe what it means to be mobile first vs desktop first.
-    ANSWER: To be desktop first is to optimize for high resolution screens, typically the site is rich with features. Most of the complex and dynamic design is for the larger screen while the mobile is more simple and functional. Mobile first 
+    ANSWER: To be desktop first is to optimize for high resolution screens, typically the site is rich with features. Most of the complex and dynamic design is for the larger screen while the mobile is more simple and functional. Mobile first is basically the oppisite, optimize for functionality and move upward from there to accomidate the size.
 
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
     ANSWER: 
@@ -52,7 +52,7 @@ Follow these steps to set up your project:
 
 ### Git Set up
 
-- [x] Create a forked copy of this project.
+- [] Create a forked copy of this project.
 - [x] Add your project manager as collaborator on Github.
 - [x] Clone your OWN version of the repository (Not Lambda's by mistake!).
 - [x] Create a new branch: git checkout -b `<firstName-lastName>`.
