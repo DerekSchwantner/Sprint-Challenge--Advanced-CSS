@@ -40,10 +40,13 @@ Edit this document to include your answers after each question. Make sure to lea
 
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
     ANSWER: 
+    
 4. How would you describe preprocessing to someone new to CSS?
-    ANSWER: 
+    ANSWER: It is a better, more organized, and more efficient way of using CSS. You use a different syntax in a slightly different language, but in the end the entire project is broken down into an organized, segmented index. 
+
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
-    ANSWER: 
+    ANSWER: My favorite is the index, I enjoy this one center for all other sheets to converge and create the project in full. The part that gives me the most trouble is the errors in LESS. I found them to be lacking in specificity and I burned alot of time looking for the error that I commited.
+
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
