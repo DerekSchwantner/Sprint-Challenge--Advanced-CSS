@@ -1,1 +1,50 @@
 // Mixins Here
+
+// Font Style Mixins
+
+.header-theme {
+    color: @header-font-color;
+    font-size: 4.2rem;
+    margin-bottom: 15px;
+    margin-top: 1.3rem;
+}
+
+.nav-theme {
+    color: @river-bend;
+    font-size: 1.75rem;
+    text-decoration: none;
+    margin-bottom: 1.5rem;
+    padding-bottom: 10px;
+}
+
+.box-style {
+    width: 100%;
+    background-color: @nav-bg;
+}
+
+.custom-button(@width, @height) {
+    width: @width;
+    height: @height;
+    color: @porcelain;
+    font-size: 1.4rem;
+    text-align: center;
+    background-color: @header-font-color;
+    border-radius: 4px;
+    padding: 3px;
+    cursor: pointer;
+  
+    &:hover {
+      background-color: @porcelain;
+      color: @header-font-color;
+      border: 1px solid black;
+    }
+  }
+
+  //media query dimensions @ 500px
+
+  .mobile-format {
+      width: 90%;
+      align-content: center;
+      justify-content: center;
+      margin: 15px auto;
+  }
