@@ -39,8 +39,8 @@ Edit this document to include your answers after each question. Make sure to lea
     ANSWER: To be desktop first is to optimize for high resolution screens, typically the site is rich with features. Most of the complex and dynamic design is for the larger screen while the mobile is more simple and functional. Mobile first is basically the oppisite, optimize for functionality and move upward from there to accomidate the size.
 
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
-    ANSWER: 
-    
+    ANSWER: The 62.5% in this case represents the percentage of the users default browser font size. So now, with the typical default browser size being 16px, 1 rem usually equals 10px.
+
 4. How would you describe preprocessing to someone new to CSS?
     ANSWER: It is a better, more organized, and more efficient way of using CSS. You use a different syntax in a slightly different language, but in the end the entire project is broken down into an organized, segmented index. 
 
